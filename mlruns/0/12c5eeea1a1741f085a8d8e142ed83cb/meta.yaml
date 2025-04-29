@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kamruzaman/Learning/Experiment_Tracking_with_mlflow/mlruns/0/12c5eeea1a1741f085a8d8e142ed83cb/artifacts
+end_time: 1745904012216
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 12c5eeea1a1741f085a8d8e142ed83cb
+run_name: adorable-kite-58
+run_uuid: 12c5eeea1a1741f085a8d8e142ed83cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745904012128
+status: 3
+tags: []
+user_id: kamruzaman

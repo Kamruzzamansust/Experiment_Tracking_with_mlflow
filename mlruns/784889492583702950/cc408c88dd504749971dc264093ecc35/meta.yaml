@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/784889492583702950/cc408c88dd504749971dc264093ecc35/artifacts
+end_time: 1745906324667
+entry_point_name: ''
+experiment_id: '784889492583702950'
+lifecycle_stage: active
+run_id: cc408c88dd504749971dc264093ecc35
+run_name: polite-skunk-682
+run_uuid: cc408c88dd504749971dc264093ecc35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745906314103
+status: 3
+tags: []
+user_id: kamruzaman

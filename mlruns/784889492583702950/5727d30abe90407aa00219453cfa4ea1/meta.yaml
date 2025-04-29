@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/784889492583702950/5727d30abe90407aa00219453cfa4ea1/artifacts
+end_time: 1745906058859
+entry_point_name: ''
+experiment_id: '784889492583702950'
+lifecycle_stage: active
+run_id: 5727d30abe90407aa00219453cfa4ea1
+run_name: kindly-squid-205
+run_uuid: 5727d30abe90407aa00219453cfa4ea1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745906057248
+status: 3
+tags: []
+user_id: kamruzaman

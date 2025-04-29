@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kamruzaman/Learning/Experiment_Tracking_with_mlflow/mlruns/0/220e6dc8f86645ea88235849ccead87a/artifacts
+end_time: 1745904724024
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 220e6dc8f86645ea88235849ccead87a
+run_name: useful-crab-930
+run_uuid: 220e6dc8f86645ea88235849ccead87a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745904721854
+status: 3
+tags: []
+user_id: kamruzaman

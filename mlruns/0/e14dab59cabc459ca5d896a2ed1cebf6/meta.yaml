@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kamruzaman/Learning/Experiment_Tracking_with_mlflow/mlruns/0/e14dab59cabc459ca5d896a2ed1cebf6/artifacts
+end_time: 1745904351915
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e14dab59cabc459ca5d896a2ed1cebf6
+run_name: sincere-ant-587
+run_uuid: e14dab59cabc459ca5d896a2ed1cebf6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745904351872
+status: 3
+tags: []
+user_id: kamruzaman
